@@ -1,0 +1,12 @@
+lookup|banana,orange,apple
+
+cat! APPLE; dog: Elephant, ORANGE? tree... boat! Mouse, sky?
+apple, river! Orange. stone; Banana-leaf, APPLE. Car, dog-lion.
+Elephant? BANANA; desk. sky, ORANGE, train! APPLE-cloud, mouse, boat?
+orange, APPLE; desk! BANANA? river, tree, orange-leaf. stone-fish!
+Stone? DOG, river! Sky; APPLE? Banana-cloud, Orange-boat, LEAF? mouse.
+BANANA, Mouse? CAT. APPLE-boat, Orange-sky; dog! lion-train, Elephant.
+Train? banana! APPLE, sky. Desk; orange? Stone, river! ORANGE, fish. LEAF!
+apple, lion; BANANA-dog. tree! mouse? ORANGE, sky; Elephant! boat? cloud.
+orange, Train? leaf! Banana; APPLE-tree? Desk, banana-river! fish. stone.
+Sky, cloud; BANANA? orange, Elephant. APPLE; desk! boat-ORANGE. train.
